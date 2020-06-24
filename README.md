@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-Much better than browser favorite tab! This repo contains little interisting
+Much better than browser favorite tab! This repo contains little interesting
 things that i learned everyday to make programming life easier or make things
 faster. Based on this [idea](https://github.com/jbranchaud/til)
 
