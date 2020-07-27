@@ -10,11 +10,16 @@ faster. Based on this [idea](https://github.com/jbranchaud/til)
 
 ### Categories
 
+- [C#](#csharp)
 - [Flutter](#flutter)
 - [JavaScript](#javascript)
 - [React Native](#react-native)
 
 ---
+
+### CSharp
+
+- [Data First with Entity Framework Core for Specific Tables](csharp/data-first-entity-framework-core-specific-tables.md)
 
 ### Flutter
 
